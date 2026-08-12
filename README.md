@@ -159,7 +159,7 @@ flowchart LR
 
 # 🚀 Projetos em destaque
 
-## 🏆 Inmetrics — Test Automation
+## 🏆 Desafio QA (Inmetrics) — Test Automation
 
 Projeto de **automação de testes Web e API** desenvolvido para um desafio técnico de QA, utilizando **Cypress e JavaScript**.
 
