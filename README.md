@@ -86,7 +86,15 @@ Meu foco é construir processos de QA que não apenas encontrem bugs, mas que aj
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
+
+### 💻 Linguagens
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🔌 API & Database
@@ -110,10 +118,12 @@ Meu foco é construir processos de QA que não apenas encontrem bugs, mas que aj
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestLink-1677C8?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Allure_Reports-FF6B35?style=for-the-badge&logoColor=white"/>
 </p>
 
-**Também utilizo:** TestLink • Xray • Gherkin • BDD • Grafana • Kibana • Jaeger
+**Também utilizo:** Xray • Gherkin • BDD • Grafana • Kibana • Jaeger
+
 
 ---
 
